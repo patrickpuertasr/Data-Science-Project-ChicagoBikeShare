@@ -1,5 +1,6 @@
 # coding: utf-8
-
+# O arquivo CSV não pode ser enviado por seu grande tamanho
+#segue link do CSV https://drive.google.com/drive/folders/1MA-1ZDRo1Eqac4Fn5HGNsvY5NuYAjBW3?usp=sharing
 #imports
 import csv
 import matplotlib.pyplot as plt
